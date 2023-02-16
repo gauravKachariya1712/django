@@ -17,7 +17,7 @@ function App() {
   }, [])
   return (
     <div className="App">
-     <h1>Connect React JS to Django</h1>
+     <h1>Connect React JS to Django -Test</h1>
      {
        students.map((student, i)=>{
          return (
